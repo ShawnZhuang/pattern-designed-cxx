@@ -1,3 +1,6 @@
 [submodule "template_c_cov"]
 	path = template_c_cov
 	url = https://github.com/ShawnZhuang/template_c_cov.git
+[submodule "testcase.framework"]
+	path = testcase.framework
+	url = git@github.com:ShawnZhuang/testcase.framework.git
