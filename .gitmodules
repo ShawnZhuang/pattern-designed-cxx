@@ -1,0 +1,3 @@
+[submodule "template_c_cov"]
+	path = template_c_cov
+	url = https://github.com/ShawnZhuang/template_c_cov.git
