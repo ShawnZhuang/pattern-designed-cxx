@@ -1,0 +1,10 @@
+*.o
+*.a
+*.info
+*.gcda
+*.gcno
+*.png
+*.html
+*.css
+reports/*
+test
