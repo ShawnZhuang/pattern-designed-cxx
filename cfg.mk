@@ -10,7 +10,7 @@ PROG=main
 MAKEFLAGS=--no-print-directory
 
 MAKE=make
-CC =gcc
+CC =g++
 
 CFLAGS +=-fprofile-arcs -ftest-coverage
 AR=ar 

@@ -3,7 +3,7 @@ COBJFILE = main.o
 
 PROG ?= main
 WEB_BROWSER?=firefox
-SUBDIR := module 
+SUBDIR := module factory
 
 .PHONY:tc clean GCOV LCOV ${SUBDIR} ${PROG}
 .IGNORE:clean
