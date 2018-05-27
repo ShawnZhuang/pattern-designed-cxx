@@ -11,20 +11,20 @@ public:
 class Circle: public Shape
 {
 public:
-	Circle();
+	// Circle();
 	void draw();
 };
 class Square:public  Shape
 {
 public:
-	Square();
+	// Square();
 	void draw();
 };
 
 class Rectangle:public Shape
 {
 public:
-	Rectangle();
+	// Rectangle();
 	void draw();
 };
 #endif

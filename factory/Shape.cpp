@@ -1,9 +1,9 @@
 #include <iostream>
 #include "Shape.h"
 
-Circle::Circle(){};
-Square::Square(){};
-Rectangle::Rectangle(){};
+// Circle::Circle(){};
+// Square::Square(){};
+// Rectangle::Rectangle(){};
 void Circle::draw(){
 	std::cout<<"Circle::"<<__func__<<std::endl;
 }

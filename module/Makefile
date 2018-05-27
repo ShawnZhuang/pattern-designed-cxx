@@ -40,7 +40,7 @@ tc:${PROG}
 	./$<
 
 GCOV:tc
-	gcov *.c
+	gcov *.cpp
 
 LCOV:GCOV 
 	lcov -d ./ -b ./ -c -o ${COV_INFO}
